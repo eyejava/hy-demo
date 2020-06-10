@@ -12,7 +12,7 @@ public class HelloSpringBoot {
 
     @RequestMapping(value = "/hello")
     public String say() {
-        return "hello jade test good";
+        return "hello jade test good12223456789";
     }
 
     @RequestMapping(value = "/say/{id}")
